@@ -42,7 +42,7 @@ To run the analysis locally:
 2. Create and activate a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scriptsctivate`
+   source venv/bin/activate  # On Windows use `venv\ScriptsActivate`
    ```
 3. Install dependencies:
    ```bash

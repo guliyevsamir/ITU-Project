@@ -1,4 +1,4 @@
-# ITU Project: Socioeconomic Status Classification
+# Socioeconomic Status Classification: A Data-driven Approach
 
 This repository contains the project developed as part of the Certificate Program on Big Data and Business Analytics organized by Istanbul Technical University in co-partnership with Mindset Institute.
 
